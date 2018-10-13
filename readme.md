@@ -7,5 +7,3 @@ Saiba mais em [github.com](https://github.com)
 Programar e tomar café =)
 
 Outros cursos em [udemy.com](https://www.udemy.com/)
-
-Vamos testar mais...
